@@ -1,2 +1,2 @@
-# CodeWrs
+# CodeWars
 My Problem in Python
